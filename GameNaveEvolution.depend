@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1514229930 source:c:\users\patrickdz96\documents\gamenaveevolution\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+	<iostream>
+
+1514166839 c:\users\patrickdz96\documents\gamenaveevolution\disparos.h
+	<allegro.h>
+	<vector>
+
+1514090965 source:c:\users\patrickdz96\documents\gamenaveevolution\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\patrickdz96\documents\gamenaveevolution\inicia.h
+
+1514235675 source:c:\users\patrickdz96\documents\gamenaveevolution\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"disparos.h"
+	<winalleg.h>
+	"RedNeuronal.h"
+	<math.h>
+	<vector>
+	<iostream>
+
+1514234580 c:\users\patrickdz96\documents\gamenaveevolution\redneuronal.h
+	<iostream>
+	<boost/numeric/ublas/matrix.hpp>
+	<boost/numeric/ublas/io.hpp>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<random>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<math.h>
+	"funciones.h"
+	<time.h>
+
+1514233351 c:\users\patrickdz96\documents\gamenaveevolution\funciones.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<utility>
+	<algorithm>
+	<boost/numeric/ublas/matrix.hpp>
+	<boost/numeric/ublas/io.hpp>
+

@@ -1,0 +1,4 @@
+25  x 20    enemigos
+30  x 20    nave
+60  x 16    muros
+600 x 400   portada
